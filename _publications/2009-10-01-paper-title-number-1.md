@@ -3,7 +3,7 @@ title: "Macross: Urban Dynamics Mining based on Metapath Guided Cross-Modal Embe
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2018-5-12
-paperurl: 'https://drive.google.com/file/d/1D0aMLYJwO_T5jostK1nU964AXdHK-pKs/view?usp=sharing'
+paperurl: 'https://drive.google.com/file/d/1-hwnLuurjogrbI4bQBlr8nEQw2nn5yNj/view?usp=sharing'
 ---
 
 [Download paper here](https://drive.google.com/file/d/1-hwnLuurjogrbI4bQBlr8nEQw2nn5yNj/view?usp=sharing)
