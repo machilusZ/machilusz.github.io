@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunan Zhang (张宇楠)"
 title_separator          : "-"
 name                     : &name "Yunan Zhang (张宇楠)"
-description              : &description "Undergrad at UIUC"
+description              : &description "MSCS at UIUC"
 url                      : https://machilusZ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -108,7 +108,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  vistors          : <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=kwqOXRxPfXnfWGWWelADqVdsfJxwpTix5zhlOIz9_Jg"></script>
+
 
 
 # Reading Files
