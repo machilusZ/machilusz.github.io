@@ -15,4 +15,3 @@ Experience
 * Summer 2021: Intern at Google Research
 * Summer 2020: Intern at Microsoft AI & Research
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kwqOXRxPfXnfWGWWelADqVdsfJxwpTix5zhlOIz9_Jg&cl=ffffff&w=a"></script>
