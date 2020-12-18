@@ -18,16 +18,23 @@ Experience
 
 
 
-
-
-#footer{
- position:fixed;
- bottom:0;
- left:0;
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
-<div id="footer">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=kwqOXRxPfXnfWGWWelADqVdsfJxwpTix5zhlOIz9_Jg"></script>
+</style>
+
+<div class="footer">
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=kwqOXRxPfXnfWGWWelADqVdsfJxwpTix5zhlOIz9_Jg"></script>
 </div>
+
+
 
 
 
