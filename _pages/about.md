@@ -17,7 +17,12 @@ Experience
 
 
 
+<div style="position: relative;background-color: blue; width: 600px; height: 800px;">    
 
+    <div style="position: absolute; bottom: 5px; background-color: green">
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=kwqOXRxPfXnfWGWWelADqVdsfJxwpTix5zhlOIz9_Jg"></script>
+    </div>
+</div>
 
 
 
