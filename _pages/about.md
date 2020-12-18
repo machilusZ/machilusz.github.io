@@ -14,7 +14,7 @@ What's New!
 ======
 * [Dec. 2020] Got an research intern offer from Google Research.
 
-* [May. 2020] I am excited to intern at Microsoft AI & Research in summer as a research intern.
+* [May. 2020] I am excited to intern at Microsoft AI & Research this summer.
 
 
 
