@@ -12,7 +12,8 @@ I'm Yunan Zhang, a MSCS student at UIUC. My research interests lie in the genera
 
 What's New!
 ======
-* [Dec. 2020] Got a research intern offer from Google Research.
+<!---* [Dec. 2020] Got a research intern offer from Google Research. --->
+
 
 * [May. 2020] I am excited to intern at Microsoft AI & Research this summer.
 
