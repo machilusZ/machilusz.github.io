@@ -12,10 +12,10 @@ I'm Yunan Zhang, a PhD dropout at UIUC advised by Prof. Chengxiang Zhai. My rese
 
 What's New!
 ======
-* [Aug. 2022] I am excited to intern as a student researcher at Google Research this fall.
-* [May. 2021] I am excited to intern at Google Research this summer.
-* [Aug. 2020] I am excited to collobrate(part-time) with Bytedance AI Lab this fall.
-* [May. 2020] I am excited to intern at Microsoft AI Research this summer.
+* [Aug. 2022] I am excited to intern as a student researcher at **Google Research** this fall.
+* [May. 2021] I am excited to intern at **Google Research** this summer.
+* [Aug. 2020] I am excited to collobrate(part-time) with **Bytedance AI Lab** this fall.
+* [May. 2020] I am excited to intern at **Microsoft AI Research** this summer.
 
 
 
