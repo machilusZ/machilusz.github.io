@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yunan Zhang, an PhD dropout at UIUC advised by Prof. Chengxiang Zhai. My research interests lie in the general area of NLP and IR, particularly in how to enable machines to understand visual-linguistic data in a human-like way, so that our intelligent systems can conduct memorization, retrieval, reasoning, and interaction for more genearl and efficient task-solving. 
+I'm Yunan Zhang, a PhD dropout at UIUC advised by Prof. Chengxiang Zhai. My research interests lie in the general area of NLP and IR, particularly in how to enable machines to understand visual-linguistic data in a human-like way, so that our intelligent systems can conduct memorization, retrieval, reasoning, and interaction for more genearl and efficient task-solving. 
 
 What's New!
 ======
